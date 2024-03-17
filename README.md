@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Yadav
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently working at Capgemini as Data Analyst
+- 🌱 I’m currently working at Viaprom Technologies Private Limited as Data Analyst
 - 💞️ I’m upskilling myself in SQL, Python and SAS Programming language
 - 📫 You can reach out to me on deepak2332271@gmail.com
 
